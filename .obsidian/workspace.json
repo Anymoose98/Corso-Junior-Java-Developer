@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "ede1b5dfe7da0711",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f87dd8a223f89d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa923af20261e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poliformismo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poliformismo"
+            }
+          },
+          {
+            "id": "2d3f14056395366a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Try e catch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Try e catch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c281dc76269a743a",
+    "type": "split",
+    "children": [
+      {
+        "id": "115884f1c2d59307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "122678614d897855",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "070ee8b74b9f60b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "72b58edef76f1ef3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d26fafb5bf3f5f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc87b56a6977fd1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b2e49c7e229af7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benvenuto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Benvenuto"
+            }
+          },
+          {
+            "id": "fd323d8615446f11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benvenuto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Benvenuto"
+            }
+          },
+          {
+            "id": "8801c4b9bf2b9c2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "3d42a860d9db8436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benvenuto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Benvenuto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "7fa923af20261e85",
+  "lastOpenFiles": [
+    "Java/Try e catch.md",
+    "Poliformismo.md",
+    "Java/Programmazione a oggetti(OOP).md",
+    "DataBase/Creare un DB con spring.md",
+    "Java/Estensione classi.md",
+    "Java/Classi.md",
+    "Java/ArrayList.md",
+    "Java/Array bi-dimensionale.md",
+    "Java/Array.md",
+    "DataBase/Memorie.md",
+    "DataBase/Database.md",
+    "DataBase/CRUD.md",
+    "Java/Java.md",
+    "Ereditarietà estensione classi.md",
+    "Java/HashMap.md",
+    "Java/Metodi per array/Map.md",
+    "DataBase/Tipi di dati (DB).md",
+    "DataBase/Relazioni.md",
+    "DataBase/Query.md",
+    "Foto/Immagine.png",
+    "Foto",
+    "Foto/Immagine2.png",
+    "Foto/Pasted image 20250120183835.png",
+    "Java/Enum.md",
+    "Senza nome.canvas",
+    "Java/Metodi.md",
+    "Java/Dichiarare una variabile.md",
+    "Java/IF e ELSE.md",
+    "Java/Operatori logici.md",
+    "Java/Operatori di confronto.md",
+    "Java/Funzioni utili.md",
+    "Java/Metodi per array",
+    "DataBase",
+    "Java",
+    "Senza nome 1.canvas"
+  ]
+}
