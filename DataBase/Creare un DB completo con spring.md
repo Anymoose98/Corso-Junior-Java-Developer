@@ -8,7 +8,7 @@ Una volta aperto Visual Studio andare in alto e su "Search" (in alto centrale) e
 6. `com.github.anymoose98.nomeProggetto` Per convenzione si tende a mettere il dominio di github al contrario (o un dominio a piacere)con il proprio nome e poi il nome del progetto .
 7. `nomedelprogetto` Attenzione alle maiuscole e caratteri speciali
 8. `Jar`
-9. `17` Potete scegliere anche un'altra versione ma stava dando problemi ad alcuni.
+9. `21` Potete scegliere anche un'altra versione ma stava dando problemi ad alcuni.
 10. Per le dependencies;
 - `MySQL Driver SQL` Aggiunge le dependencies in maniera automatica invece che manuale
 - `Spring Data JPA SQL` Aggiunge le dependencies in maniera automatica invece che manuale
@@ -17,8 +17,7 @@ Una volta aperto Visual Studio andare in alto e su "Search" (in alto centrale) e
 # Aperto il progetto come collegare il server
 La prima cosa da fare è andare su Java Projects come da allegato
 
-![[Immagine.png]]
-Entrare Dentro la cartella `src/main/resources` Cliccare su `application,properties`, aggiungere e incollare il seguente codice:
+Entrare Dentro la cartella `src/main/resources` Cliccare su `application.properties`, aggiungere e incollare il seguente codice:
 ```
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.url=jdbc:mysql://localhost:3306/NOME DATABASE
@@ -26,6 +25,11 @@ spring.datasource.username=IL TUO USERNAME
 spring.datasource.password=LA TUA PASSWORD
 spring.jpa.hibernate.ddl-auto=update
 ```
+
+> [!warning]
+>Aggiungere e non togliere la prima riga
+
+
 
 Se è tutto corretto dovrebbe uscire questa schermata una volta runnato il tutto
 ![[Immagine2.png]]
@@ -107,6 +111,13 @@ public class RobotService {
     }
 }
 ````
+
+> [!warning]
+>Se non disposti bene non funzionerà la creazione del DB, di seguito in foto mostriamo la giusta configurazione.
+>Controllare se la modalità di visualizzazione non sia impostata su flat
+>
+
+![[Immagine.png]]
 
 # Fase di utilizzo
 1. Andare sulla classe principale (quella con scritta Application)
