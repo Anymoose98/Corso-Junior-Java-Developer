@@ -27,3 +27,4 @@ In Java, tutto è progettato attorno agli oggetti. Le principali caratteristiche
 [[Classi]]
 [[Metodi]]
 [[Poliformismo]]
+[[Interfaccia]]

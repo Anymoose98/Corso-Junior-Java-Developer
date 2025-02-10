@@ -48,3 +48,4 @@ persona1.saluta(); // Output: Ciao, mi chiamo Luca e ho 25 anni.
 ````
 
 [[Estensione classi]]
+[[Classe astratta]]

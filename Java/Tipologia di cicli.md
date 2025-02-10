@@ -1,3 +1,6 @@
+
+> [!warning]
+> Se usiamo un Return bloccherà il ciclo
 # **Ciclo `do-while`**
 
 Il **ciclo `do-while`** è una struttura di controllo che:  
@@ -98,3 +101,4 @@ for (int i = 0; i < 5; i++) {
     // Corpo del ciclo: codice da eseguire
 }
 ````
+

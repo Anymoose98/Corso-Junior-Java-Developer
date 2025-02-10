@@ -22,3 +22,7 @@
 [[Programmazione a oggetti(OOP)]]
 [[Try e catch]]
 [[Estensione classi]]
+[[Interfaccia]]
+[[Poliformismo]]
+[[Classi]]
+[[Classe astratta]]
