@@ -117,7 +117,7 @@ public class RobotService {
 >Controllare se la modalità di visualizzazione non sia impostata su flat
 >
 
-![[Immagine.png]]
+![[Immagine 1.png]]
 
 # Fase di utilizzo
 1. Andare sulla classe principale (quella con scritta Application)

@@ -10,4 +10,6 @@ Un **database** è un sistema organizzato per raccogliere, archiviare e gestire 
 [[Creare la repository]]
 [[Creare un DB completo con spring]]
 [[Service]]
+[[Metodi HTTP]]
+[[Controller]]
 

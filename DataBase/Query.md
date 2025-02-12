@@ -1,3 +1,4 @@
+# **Cos'è?**
 Nei database, una query è un'istruzione scritta in un linguaggio specifico, come **SQL (Structured Query Language)**, per manipolare o recuperare dati da un database.
 
 ---
